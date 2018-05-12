@@ -1,4 +1,8 @@
 _repo: Traite-General-de-la-Cuisine-Maigre-Potages-entrees-et-releves-entremets-de-legumes-sauces-ent__6966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hélie, Auguste
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '2280'
     url: http://www.gutenberg.org/2009/agents/2280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6966#Traite-General-de-la-Cuisine-Maigre-Potages-entrees-et-releves-entremets-de-legumes-sauces-ent_
 gutenberg_bookshelf:
 - Cookery
 - FR Sciences et Techniques
